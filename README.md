@@ -1,34 +1,47 @@
-# Recursive Collapse Theory  
-**A Deterministic Model of Symbolic Tension Resolution via Collapse Field Dynamics**  
-**Author:** Liam O’Boyle — Independent Researcher  
-**Date:** June 28, 2025  
+# Recursive Collapse Theory (RCT)
+
+**Status:** Open exploratory release  
+**Author:** Liam O’Boyle  
+**Contact:** liamoboyle0@gmail.com
 
 ---
 
 ## Overview
 
-This repository contains the working draft of a theoretical framework titled **Recursive Collapse Theory (RCT)**. The model proposes a deterministic mechanism for resolving internal contradictions in symbolic systems by introducing a self-propagating collapse field (Φ), which flows through a bipartite graph of symbols and constraints. This work is part of a much bigger project revolving cognition. 
+Recursive Collapse Theory (RCT) introduces a deterministic, field-driven model for contradiction resolution within symbolic systems. Built upon a bipartite graph structure of symbols and constraints, RCT defines a Collapse Field (Φ) that propagates across symbolic networks to detect and reduce structural tension.
 
-The work is fully self-contained in the PDF below.  
-It does not rely on neural networks, optimization solvers, or external training. All dynamics are internally defined and recursively applied.
-
----
-
-## Included
-
-- `main.pdf`: Full paper outlining the mathematical formalism, simulations, and philosophical implications of RCT.
-- No implementation or source code is included in this repository.  
-- No claim of complete empirical validation is made.
+Unlike optimization-based or probabilistic solvers, RCT is fully recursive and self-regulating. It operates purely on internal symbolic structure and field dynamics—without the need for training data or external intervention.
 
 ---
 
-## Purpose
+## What This Repository Contains
 
-This release is for **open scientific review**.  
-The goal is to:
-
-- Share the core formalism for scrutiny and refinement.
-- Explore its possible relevance in symbolic AI, logic compression, and recursive computation.
-- Begin dialogue with researchers interested in tension-driven symbolic systems.
+- **Formal PDF Paper** — Full theoretical description of RCT, including mathematical formalism, worked examples, simulations, and philosophical implications.
+- **Plain-text README** — This file.
+- **License Notice** — Usage policy for academic purposes and non-commercial engagement.
 
 ---
+
+## Intent
+
+This paper is shared as part of a larger cognitive exploration project. It does **not** claim finality or proof of discovery—rather, it proposes a novel symbolic mechanism for recursive collapse and invites critical review, refinement, and discussion.
+
+The model is currently under iterative development and open to conceptual feedback.
+
+---
+
+## Future Scope
+
+While this repository does not include source code or implementation, future stages may include:
+
+- LaTeX source publication
+- Collapse engine prototype
+- Field dynamics visualizations
+
+---
+
+## Engage or Review
+
+If you are a researcher, theorist, or engineer interested in symbolic cognition, contradiction modeling, or field-based reasoning systems, feedback is welcome.
+
+Please contact: **liamoboyle0@gmail.com**
