@@ -8,40 +8,41 @@
 
 ## Overview
 
-Recursive Collapse Theory (RCT) introduces a deterministic, field-driven model for contradiction resolution within symbolic systems. Built upon a bipartite graph structure of symbols and constraints, RCT defines a Collapse Field (Φ) that propagates across symbolic networks to detect and reduce structural tension.
+Recursive Collapse Theory (RCT) proposes a deterministic, field driven mechanism for resolving symbolic contradictions. Operating on a bipartite graph of symbols and constraints, RCT defines a Collapse Field (Φ) that recursively propagates across symbolic structures to reduce tension and restore internal coherence.
 
-Unlike optimization-based or probabilistic solvers, RCT is fully recursive and self-regulating. It operates purely on internal symbolic structure and field dynamics—without the need for training data or external intervention.
+Unlike optimisation solvers or probabilistic models, RCT requires no training data. Its recursive field dynamics are fully self contained and structurally guided.
 
 ---
 
-## What This Repository Contains
+## Repository Contents
 
-- **Formal PDF Paper** — Full theoretical description of RCT, including mathematical formalism, worked examples, simulations, and philosophical implications.
-- **Plain-text README** — This file.
-- **License Notice** — Usage policy for academic purposes and non-commercial engagement.
+- **Formal PDF Paper** - Theoretical description of RCT, including mathematical framework, example cases, and philosophical context.
+- **Test Results** - Complete symbolic collapse test runs validating recursive behavior under weighted constraint systems.
+- **README** — Project overview and engagement details.
+- **License Notice** — Academic and non-commercial use terms.
 
 ---
 
 ## Intent
 
-This paper is shared as part of a larger cognitive exploration project. It does **not** claim finality or proof of discovery—rather, it proposes a novel symbolic mechanism for recursive collapse and invites critical review, refinement, and discussion.
+This release is part of an ongoing cognitive systems project. It does **not** claim finality or proof-but offers a working model for recursive contradiction resolution, grounded in symbolic tension fields.
 
-The model is currently under iterative development and open to conceptual feedback.
-
----
-
-## Future Scope
-
-While this repository does not include source code or implementation, future stages may include:
-
-- LaTeX source publication
-- Collapse engine prototype
-- Field dynamics visualizations
+Feedback, critique, and refinement are welcomed at this stage of exploration.
 
 ---
 
-## Engage or Review
+## Future Work
 
-If you are a researcher, theorist, or engineer interested in symbolic cognition, contradiction modeling, or field-based reasoning systems, feedback is welcome.
+While this release contains theory and output, implementation is progressing independently. Possible additions include:
 
-Please contact: **liamoboyle0@gmail.com**
+- Engine prototype (CollapseEngine)
+- Visual field mapping tools
+- LaTeX source archive
+
+---
+
+## Contact & Collaboration
+
+If you’re working on symbolic cognition, contradiction resolution, or novel computation models—and would like to contribute or collaborate—reach out:
+
+**liamoboyle0@gmail.com**
