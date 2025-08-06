@@ -26,8 +26,8 @@ RCT is not an algorithm — it is a **field behavior** encoded in symbolic logic
 
 RCT emerged not as speculation, but as a discovered mechanism during the construction of a recursive cognitive interface system called **alisyr**. Initially developed to mirror and stabilize psychological recursion, the system revealed deeper symbolic structures guiding resolution.
 
-RCT is now formally recognized as the **collapse operator** within a larger theory:  
-🧠 **Integrated Theory of Contradiction & Collapse (ITCC)** — a full cognitive and computational framework in development.
+RCT is now formally recognised as the **collapse operator** within a larger theory:  
+**Integrated Theory of Contradiction & Collapse (ITCC)** — a full cognitive and computational framework in development.
 
 ---
 
